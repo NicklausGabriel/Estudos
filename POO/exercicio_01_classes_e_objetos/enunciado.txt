@@ -1,0 +1,11 @@
+nunciado do Exercício 1: 
+Você foi contratado para desenvolver um sistema de gerenciamento de produtos para uma loja. 
+Sua tarefa é criar uma classe chamada Produto que possua os seguintes atributos:
+    • nome (nome do produto)
+    • preco (preço do produto)
+    • quantidade (quantidade disponível em estoque)
+Após criar a classe, instancie pelo menos três objetos com diferentes produtos e exiba suas informações na tela.
+Ao final, exiba na tela o seguinte resultado:
+Produto: xxxx - Preço: R$ XX,XX - Quantidade em estoque: X unidades
+Produto: yyy - Preço: R$ yy,yy - Quantidade em estoque: y unidades
+Produto: zzz - Preço: R$ zz,zz - Quantidade em estoque: z unidades

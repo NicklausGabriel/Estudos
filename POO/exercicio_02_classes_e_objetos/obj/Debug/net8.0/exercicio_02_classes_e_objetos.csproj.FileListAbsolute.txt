@@ -1,0 +1,15 @@
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/obj/Debug/net8.0/exercicio_02_classes_e_objetos.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/obj/Debug/net8.0/exercicio_02_classes_e_objetos.AssemblyInfoInputs.cache
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/obj/Debug/net8.0/exercicio_02_classes_e_objetos.AssemblyInfo.cs
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/obj/Debug/net8.0/exercicio_02_classes_e_objetos.csproj.CoreCompileInputs.cache
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/obj/Debug/net8.0/exercicio_02_classes_e_objetos.sourcelink.json
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/bin/Debug/net8.0/exercicio_02_classes_e_objetos
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/bin/Debug/net8.0/exercicio_02_classes_e_objetos.deps.json
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/bin/Debug/net8.0/exercicio_02_classes_e_objetos.runtimeconfig.json
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/bin/Debug/net8.0/exercicio_02_classes_e_objetos.dll
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/bin/Debug/net8.0/exercicio_02_classes_e_objetos.pdb
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/obj/Debug/net8.0/exercicio_02_classes_e_objetos.dll
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/obj/Debug/net8.0/refint/exercicio_02_classes_e_objetos.dll
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/obj/Debug/net8.0/exercicio_02_classes_e_objetos.pdb
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/obj/Debug/net8.0/exercicio_02_classes_e_objetos.genruntimeconfig.cache
+/home/gabriel-avelar/Documents/Estudando/POO/exercicio_02_classes_e_objetos/obj/Debug/net8.0/ref/exercicio_02_classes_e_objetos.dll

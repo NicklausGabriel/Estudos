@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "POO", "POO", "{AF85882C-FF1C-6406-4457-EB3E9E1478ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_01_classes_e_objetos", "POO\exercicio_01_classes_e_objetos\exercicio_01_classes_e_objetos.csproj", "{5335EE40-EE80-7CBB-94C1-70C73BD59BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5335EE40-EE80-7CBB-94C1-70C73BD59BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5335EE40-EE80-7CBB-94C1-70C73BD59BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5335EE40-EE80-7CBB-94C1-70C73BD59BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5335EE40-EE80-7CBB-94C1-70C73BD59BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5335EE40-EE80-7CBB-94C1-70C73BD59BEC} = {AF85882C-FF1C-6406-4457-EB3E9E1478ED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8F86EDD-1B98-4E94-BA94-7AEB87591C27}
+	EndGlobalSection
+EndGlobal

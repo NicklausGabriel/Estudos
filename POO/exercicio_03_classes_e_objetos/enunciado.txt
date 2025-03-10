@@ -1,0 +1,10 @@
+Enunciado do Exercício 3: 
+Você foi contratado para desenvolver um sistema de cadastro de alunos para uma escola. 
+Sua tarefa é criar uma classe chamada Aluno, que contenha os seguintes atributos:
+    • nome (nome do aluno)
+    • idade (idade do aluno)
+    • curso (curso que o aluno está matriculado)
+
+Após criar a classe, instancie pelo menos três objetos da classe Aluno, 
+atribuindo valores diferentes para cada um. 
+Em seguida, exiba diretamente os valores desses objetos na tela,

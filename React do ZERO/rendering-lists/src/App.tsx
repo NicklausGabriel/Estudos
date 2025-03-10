@@ -3,6 +3,7 @@ import "./App.css";
 import React from "./assets/react.svg";
 import ListRender from "./components/ListRender";
 import ManageData from "./components/ManageData";
+import Desafio4 from "./pages/Desafio4";
 function App() {
   return (
     <>
@@ -16,6 +17,7 @@ function App() {
       </div>
       <ManageData />
       <ListRender />
+      <Desafio4 />
     </>
   );
 }
